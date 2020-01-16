@@ -28,7 +28,7 @@
             <div class="intro-text">
                 <div class="intro-lead-in"> Dobrodošli! </div>
                 <div class="intro-heading">Drago nam je što ste ovde...</div>
-                <a href="index.php#blogovi" class="page-scroll btn btn-xl">Pogledajte neke od blogova</a>
+                <a href="index.php#blogovi" class="page-scroll btn btn-xl"> Pogledajte neke od blogova</a>
             </div>
         </div>
     </header>
@@ -38,7 +38,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Online psiholog</h2>
-                    <h3 class="section-subheading text-muted">Ovde mozete pronaći naše blogove</h3>
+                    <h3 class="section-subheading text-muted">Ovde možete pronaći naše blogove</h3>
 					
 				</div>
             </div>
